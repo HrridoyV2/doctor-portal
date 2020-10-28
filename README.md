@@ -1,6 +1,6 @@
 # Doctors-Portal-Server
 ***
-## Used Technology: `Expressjs`,`ExpressJs` `MongoDb`, `Express-fileupload`, `Nodemon`, `dotenv`
+## Used Technology: `Expressjs`, `MongoDb`, `Express-fileupload`, `Nodemon`, `dotenv`
 
 
 
